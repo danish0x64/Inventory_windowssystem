@@ -1,4 +1,5 @@
 Msg * Developed by Danish Bijwala 8169821604
+https://in.linkedin.com/in/danish-bijwala-2a6b32136
 
 color 2
 
@@ -52,3 +53,12 @@ wmic 	/output:"useraccount.csv"		useraccount	get AccountType, Description, Domai
 
 wmic 	/output:"nicconfig.csv"		nicconfig	get MACAddress, DefaultIPGateway, IPAddress, IPSubnet, DNSHostName, DNSDomain	/format:"%WINDIR%\System32\wbem\en-US\csv"
 copy /B "*.csv"   "Allinone.csv"
+
+
+
+
+
+
+
+
+
