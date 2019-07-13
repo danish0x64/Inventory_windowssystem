@@ -1,5 +1,7 @@
-Msg * Developed by Danish Bijwala 8169821604
-https://in.linkedin.com/in/danish-bijwala-2a6b32136
+Msg * Have great Day ! Ask any Question to Danish Bijwala
+
+start chrome https://in.linkedin.com/in/danish-bijwala-2a6b32136
+start  chrome https://www.facebook.com/danish.bijwala
 
 color 2
 
@@ -8,7 +10,7 @@ ipconfig | find "IPv4"& hostname  > IPh.txt
 
 set  /p x=<IPh.txt
 
-mkdir  ""
+
 
 
 
